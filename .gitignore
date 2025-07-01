@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv310/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
