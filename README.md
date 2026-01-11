@@ -1,27 +1,27 @@
-# 🧠 ClassiFyAI Lite
+# ClassiFyAI Lite
 
 ClassiFyAI Lite is a lightweight image classification app built with a graphical user interface (GUI). It uses a pre-trained deep learning model (Keras/TensorFlow) to identify objects in images from the CIFAR-10 dataset — including airplanes, automobiles, cats, dogs, ships, and more.
 
 <br/>
 
-## 🚀 Features
+##  Features
 
-- ✅ Simple and responsive GUI built using [Taipy](https://www.taipy.io/)
-- 🖼️ Supports image upload and preview
-- 🧠 Integrates with a trained TensorFlow/Keras model
-- 🔍 Classifies images into 10 categories (CIFAR-10)
-- 💡 Built for ease of use and quick predictions
+- Simple and responsive GUI built using [Taipy](https://www.taipy.io/)
+- Supports image upload and preview
+- Integrates with a trained TensorFlow/Keras model
+- Classifies images into 10 categories (CIFAR-10)
+- Built for ease of use and quick predictions
 
 <br/>
 
-## 📦 Requirements
+## Requirements
 
 Install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
 
-🧰 Project Structure
+Project Structure
 
 ml_gui_app/
 ├── app.py                  # Main application file
@@ -31,7 +31,7 @@ ml_gui_app/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 
-🧪 Classes Supported (CIFAR-10)
+Classes Supported (CIFAR-10)
 | Class Index | Class Name |
 | ----------- | ---------- |
 | 0           | Airplane   |
