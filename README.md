@@ -29,7 +29,7 @@ ml_gui_app/
 ├── image_utils.py          # Utility functions for image processing
 ├── assets/                 # Optional folder for logos or icons
 ├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+└── README.md               # Project documented details
 
 Classes Supported (CIFAR-10)
 | Class Index | Class Name |
