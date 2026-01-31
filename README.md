@@ -10,7 +10,7 @@ ClassiFyAI Lite is a lightweight image classification app built with a graphical
 - Supports image upload and preview
 - Integrates with a trained TensorFlow/Keras model
 - Classifies images into 10 categories (CIFAR-10)
-- Built for ease of use and quick predictions
+- Built for ease of use and quick predictions.
 
 <br/>
 
